@@ -2,7 +2,7 @@
 ## Francisc Guias [1guiaf33@solent.ac.uk] - Contemporary Web Application
 ### 2023, Solent University QA
 
-[Git Repository](https://github.com/FGuias/StudyRoom.git)
+[Git Repository](https://github.com/FG84-cyber/StudyRoomBooking)
 
 #TTechnical Report: Study Room Booking System
 
